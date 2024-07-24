@@ -1,3 +1,10 @@
+# Hyperliquid Node Setup Guide
+
+<p align="center">
+<img src='image.jpg' width='900'>
+</p>
+
+
 ## Project's Social Media
 
 - [Twitter](https://x.com/HyperliquidX)
